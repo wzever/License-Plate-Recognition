@@ -15,11 +15,17 @@ Course project of SJTU AI4701: Computer Vision, 2023 spring
 
 ### 文件说明：
 `main.py` 程序主入口
+
 `detect.py` 车牌检测与定位
+
 `recognize.py` 车牌字符的识别
+
 `dataset.py` 数据集的构建与划分
+
 `model.py` 定义CNN模型
+
 `train.py` 训练网络
+
 另外，`pretrained`下保存预训练的模型权重，`VehicleLicense`下存放训练数据，`resources`包含三个等级的九张测试图片，`test`下存放额外测试样本。
 
 ### 运行：
@@ -35,7 +41,11 @@ python train.py
 
 ### Reference
 [1] https://www.guyuehome.com/13863
+
 [2] https://zhuanlan.zhihu.com/p/102203294
+
 [3] https://blog.csdn.net/qq_44032245/article/details/94772746?spm=1001.2014.3001.5502
+
 [4] VehicleLicense 车牌识别数据集: https://aistudio.baidu.com/aistudio/datasetdetail/56280
+
 [5] https://github.com/Rhyam/SJTU-AU335-Computer-Vision/tree/main/project
