@@ -32,3 +32,10 @@ python main.py
 python train.py
 ```
 可调参数及默认值：`--train_ratio 0.85 --num_epochs 100 --batch_size 32 --lr 2e-4 --wd 5e-4 --lr_period 10 --lr_decay 0.95`
+
+### Reference
+[1] https://www.guyuehome.com/13863
+[2] https://zhuanlan.zhihu.com/p/102203294
+[3] https://blog.csdn.net/qq_44032245/article/details/94772746?spm=1001.2014.3001.5502
+[4] VehicleLicense 车牌识别数据集: https://aistudio.baidu.com/aistudio/datasetdetail/56280
+[5] https://github.com/Rhyam/SJTU-AU335-Computer-Vision/tree/main/project
