@@ -1,7 +1,7 @@
 # License Plate Recognition
-Course project of SJTU AI4701: Computer Vision, 2023 spring
+Course project of SJTU AI4701: Computer Vision, 2023 spring.
 
-本项目是上海交通大学计算机视觉课程项目。
+**Attention: Discussion & reference welcomed, but ***NO PLAGIARISM*** !!!**
 
 ### 项目任务：
 本项目需要设计算法完成对给定图像中车牌位置的检测，进而识别车牌号（包括中文部分），并通过恰当的方式对检测过程以及识别结果进行可视化。给定的测试样本被划分为三个难度等级，其中 easy 和 medium 难度图片的车牌均正对相机，区别在于车牌是否已经从环境中提取，difficult 难度提供的车牌则与相机有倾角，贴近实际场景。
